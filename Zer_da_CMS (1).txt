@@ -1,0 +1,3 @@
+Zer da CMS bat?
+
+CMS bat, edukiak kudeatzeko sistema bat da. Webgune bat sortu, administratu eta aldatzeko aukera ematen duen softwarea da, programazio koderik jakin gabe. Panel erraz baten bidez testuak idatzi, argazkiak igo eta diseinua aldatu daiteke koderik idatzi gabe. Teknologia honek webguneak azkar eta modu errazean eraikitzea eta eguneratzea ahalbidetzen du, pertsona bakarreko proiektuetatik hasi eta enpresa handien atarietaraino. Modu honetan, edukiak sortzean eta kudeatzean jar dezakezu arreta, alderdi tekniko konplexuetan denbora galdu gabe.
